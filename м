@@ -1,0 +1,18 @@
+# Virtual Kyrgyzstan Commerce OS
+
+## Stack
+- Frontend: Next.js
+- Backend: NestJS
+- DB: PostgreSQL
+- Storage: Cloudflare R2
+
+## Modules
+- Auth
+- Users
+- Partners
+- Locations
+- Scenes
+- Hotspots
+- Leads
+- Planner
+- Admin
